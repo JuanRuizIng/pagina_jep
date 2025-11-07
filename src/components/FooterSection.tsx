@@ -2,6 +2,8 @@ import { motion } from "motion/react";
 import { useInView } from "motion/react";
 import { useRef } from "react";
 import { Heart, BookOpen, Users } from "lucide-react";
+import camilaImage from "../images/Camila .png";
+import juanImage from "../images/Juan .png";
 
 export function FooterSection() {
   const ref = useRef(null);
@@ -60,11 +62,87 @@ export function FooterSection() {
           </p>
         </motion.div>
 
+        {/* Estudiantes */}
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={isInView ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.8, delay: 0.3 }}
+          className="mb-16"
+        >
+          <h3 
+            style={{ fontFamily: 'Playfair Display, serif' }} 
+            className="text-zinc-900 text-3xl mb-12 text-center"
+          >
+            Desarrolladores del Proyecto
+          </h3>
+          <div className="grid md:grid-cols-2 gap-12 max-w-4xl mx-auto">
+            {/* Camila */}
+            <motion.div
+              initial={{ opacity: 0, x: -30 }}
+              animate={isInView ? { opacity: 1, x: 0 } : {}}
+              transition={{ duration: 0.8, delay: 0.4 }}
+              className="bg-white p-8 rounded-lg shadow-xl text-center"
+            >
+              <div className="mb-6">
+                <img 
+                  src={camilaImage} 
+                  alt="María Camila Orozco Romero"
+                  className="w-48 h-48 rounded-full mx-auto object-cover border-4 border-amber-600 shadow-lg"
+                />
+              </div>
+              <h4 
+                style={{ fontFamily: 'Playfair Display, serif' }} 
+                className="text-zinc-900 text-2xl mb-3"
+              >
+                María Camila Orozco Romero
+              </h4>
+              <div className="space-y-2 text-zinc-700">
+                <p className="text-sm">
+                  <strong>Email:</strong> maria_cam.orozco@uao.edu.co
+                </p>
+                <p className="text-sm">
+                  <strong>Código:</strong> 2226220
+                </p>
+              </div>
+            </motion.div>
+
+            {/* Juan */}
+            <motion.div
+              initial={{ opacity: 0, x: 30 }}
+              animate={isInView ? { opacity: 1, x: 0 } : {}}
+              transition={{ duration: 0.8, delay: 0.5 }}
+              className="bg-white p-8 rounded-lg shadow-xl text-center"
+            >
+              <div className="mb-6">
+                <img 
+                  src={juanImage} 
+                  alt="Juan Andrés Ruiz Muñoz"
+                  className="w-48 h-48 rounded-full mx-auto object-cover border-4 border-amber-600 shadow-lg"
+                />
+              </div>
+              <h4 
+                style={{ fontFamily: 'Playfair Display, serif' }} 
+                className="text-zinc-900 text-2xl mb-3"
+              >
+                Juan Andrés Ruiz Muñoz
+              </h4>
+              <div className="space-y-2 text-zinc-700">
+                <p className="text-sm">
+                  <strong>Email:</strong> juan_andres.ruiz@uao.edu.co
+                </p>
+                <p className="text-sm">
+                  <strong>Código:</strong> 2230557
+                </p>
+              </div>
+            </motion.div>
+          </div>
+        </motion.div>
+
         {/* Bibliografía */}
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={isInView ? { opacity: 1, y: 0 } : {}}
-          transition={{ duration: 0.8, delay: 0.4 }}
+          transition={{ duration: 0.8, delay: 0.6 }}
           className="bg-white p-8 rounded-lg shadow-lg mb-12"
         >
           <h3 
