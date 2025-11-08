@@ -7,7 +7,7 @@ import juanImage from "../images/Juan .png";
 
 export function FooterSection() {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true, amount: 0.3 });
+  const isInView = useInView(ref, { once: true, amount: 0.1 });
 
   return (
     <section ref={ref} className="bg-stone-100 py-20 px-6">
