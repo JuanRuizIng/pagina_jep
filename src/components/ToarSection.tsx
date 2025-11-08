@@ -112,10 +112,10 @@ export function ToarSection() {
                     style={{ fontFamily: 'Playfair Display, serif' }} 
                     className="text-amber-700 text-3xl"
                   >
-                    Reparación Simbólica y Dignificación
+                    Plan Integral de Memorialización para la Costa Caribe
                   </h3>
                   <p className="text-zinc-700 leading-relaxed">
-                    La línea central del TOAR. Los 12 exmilitares deben participar en la construcción de un <strong>mausoleo con 300 osarios</strong> en el Cementerio Ecce Homo de Valledupar. Este acto, donde los perpetradores construyen el lugar de descanso de las víctimas, es la materialización del reconocimiento y la dignificación.
+                    La línea central del TOAR. Los 12 exmilitares deben participar en la construcción de un <strong>mausoleo con 700 osarios</strong> en el Cementerio Ecce Homo de Valledupar. Este acto, donde los perpetradores construyen el lugar de descanso de las víctimas, es la materialización del reconocimiento y la dignificación.
                   </p>
                   <p className="text-zinc-700 leading-relaxed">
                     Este proyecto responde directamente al derecho a la verdad y la reparación. Al construir el mausoleo, los militares aceptan públicamente la narrativa de las víctimas (que no eran guerrilleros) y combaten el negacionismo. Da a las familias un lugar físico para el duelo, un derecho que les fue negado por la desaparición forzada.
@@ -145,7 +145,7 @@ export function ToarSection() {
                     style={{ fontFamily: 'Playfair Display, serif' }} 
                     className="text-green-700 text-3xl"
                   >
-                    Reparación Material
+                    Fortalecimiento productivo multipropósito, urbano y rural ‘Sembradores de amor y paz’
                   </h3>
                   <p className="text-zinc-700 leading-relaxed">
                     A través del proyecto <strong>"Sembradores de amor y paz"</strong>, los comparecientes deben usar sus conocimientos técnicos (logística, ingeniería) para apoyar los proyectos productivos de las familias de las víctimas. Esto incluye adecuar predios y fortalecer cultivos.
@@ -177,7 +177,7 @@ export function ToarSection() {
                     style={{ fontFamily: 'Playfair Display, serif' }} 
                     className="text-orange-700 text-3xl"
                   >
-                    Etno-reparación y Armonización
+                    Centro de armonización para el buen vivir del Pueblo Kankuamo y Centro Integral Cultural y de Memoria OMONAPA del Pueblo Wiwa
                   </h3>
                   <p className="text-zinc-700 leading-relaxed">
                     Este es el componente más profundo. El crimen en la Sierra Nevada de Santa Marta no solo fue un homicidio, sino una <strong>profanación del territorio sagrado</strong> que rompió el equilibrio espiritual de los pueblos Wiwa y Kankuamo.

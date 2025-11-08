@@ -153,38 +153,167 @@ export function FooterSection() {
           </h3>
           <div className="space-y-4 text-sm text-zinc-700 max-w-4xl mx-auto">
             <p className="pl-6 -indent-6">
-              Beristain, C. M. (2024). <em>Enfoque Psicosocial en Procesos de Justicia Transicional: 
-              Agencia y Dignidad de las Víctimas</em>. Instituto de Estudios sobre Conflictos y Acción 
-              Humanitaria.
+              <strong>Beristain, Carlos Martín</strong> (2024). “Justicia restaurativa: los desafíos del Estado y la JEP”,
+              disponible en:{" "}
+              <a
+                href="https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/justicia-restaurativa-los-desafios-del-estado-y-la-jep/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/justicia-restaurativa-los-desafios-del-estado-y-la-jep/
+              </a>{" "}
+              (Fecha de consulta: octubre 28 de 2025)
             </p>
             <p className="pl-6 -indent-6">
-              Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición. (2022). 
-              <em>Hay Futuro si Hay Verdad: Informe Final</em>. Bogotá: Comisión de la Verdad.
+              <strong>Coll, J. F.</strong> (2025, 3 noviembre). <em>Exguerrilleros y militares se unen para construir 500
+              osarios de víctimas de desaparición forzada en Colombia</em>. EL PAÍS América Colombia.{" "}
+              <a
+                href="https://elpais.com/america-colombia/2025-11-03/exguerrilleros-y-militares-se-unen-para-construir-500-osarios-de-victimas-de-desaparicion-forzada-en-colombia.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://elpais.com/america-colombia/2025-11-03/exguerrilleros-y-militares-se-unen-para-construir-500-osarios-de-victimas-de-desaparicion-forzada-en-colombia.html
+              </a>
             </p>
             <p className="pl-6 -indent-6">
-              Jurisdicción Especial para la Paz. (s.f.). <em>Lineamientos en materia de sanción propia</em>. 
-              Bogotá: JEP. Recuperado de https://www.jep.gov.co
+              <strong>Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición – CEVCNR</strong>{" "}
+              (2022). Hay futuro si hay verdad: Informe Final de la Comisión para el Esclarecimiento de la Verdad, la
+              Convivencia y la No Repetición. Bogotá: CEVCNR. (Versión digital – agosto de 2022). Disponible en:{" "}
+              <a
+                href="https://www.comisiondelaverdad.co"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.comisiondelaverdad.co
+              </a>{" "}
+              (Fecha de consulta: octubre 28 de 2025)
             </p>
             <p className="pl-6 -indent-6">
-              Jurisdicción Especial para la Paz. (2024). <em>Acuerdo AOG No. 011: Plan Integral de 
-              Proyectos Restaurativos - Batallón La Popa, Macrocaso 03</em>. Bogotá: JEP.
+              <strong>JEP</strong> (2024). “Acuerdo AOG No. 011 de 2024 (20 de marzo)”, disponible en:{" "}
+              <a
+                href="https://www.jep.gov.co/organosgobierno/Acuerdo%20AOG%20011%20de%202024.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.jep.gov.co/organosgobierno/Acuerdo%20AOG%20011%20de%202024.pdf
+              </a>{" "}
+              (Fecha de consulta: octubre 28 de 2025)
             </p>
             <p className="pl-6 -indent-6">
-              Suárez Aldana, C. A. (2020). <em>Justicia Restaurativa y Construcción de Paz en Colombia</em>. 
-              Revista Colombiana de Ciencias Sociales, 11(2), 620-645.
+              <strong>Jurisdicción Especial para la Paz</strong> (2021). Auto 033 de 2021: Apertura del Macrocaso 03 –
+              Asesinatos y desapariciones forzadas presentados como bajas en combate por agentes del Estado. Bogotá:
+              JEP.
             </p>
             <p className="pl-6 -indent-6">
-              Jurisdicción Especial para la Paz [JEP]. (2023). <em>Audiencia de Reconocimiento de 
+              <strong>Jurisdicción Especial para la Paz – JEP</strong>. (2025, 7 de junio). La JEP y autoridades de Cesar y
+              La Guajira articulan esfuerzos para preparar la implementación de la sentencia que se emita por ‘falsos
+              positivos’ en estos departamentos. Sala de Prensa de la JEP.{" "}
+              <a
+                href="https://www.jep.gov.co/Sala-de-Prensa/Paginas/la-jep-y-autoridades-de-cesar-y-la-guajira-articulan-esfuerzos-para-preparar-la-implementacion-de-la-sentencia-que-se-emita.aspx"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.jep.gov.co/Sala-de-Prensa/Paginas/la-jep-y-autoridades-de-cesar-y-la-guajira-articulan-esfuerzos-para-preparar-la-implementacion-de-la-sentencia-que-se-emita.aspx
+              </a>
+            </p>
+            <p className="pl-6 -indent-6">
+              <strong>Jurisdicción Especial para la Paz</strong>. (2025, 18 de septiembre). JEP emite primera sentencia
+              por asesinatos y desapariciones forzadas... [Comunicado de prensa].{" "}
+              <a
+                href="https://www.jep.gov.co/Sala-de-Prensa/Paginas/-jep-emite-primera-sentencia-por-asesinatos-y-desapariciones-forzadas-ilegitimamente-presentadas-como-bajas-en-combate-en-l.aspx"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.jep.gov.co/Sala-de-Prensa/Paginas/-jep-emite-primera-sentencia-por-asesinatos-y-desapariciones-forzadas-ilegitimamente-presentadas-como-bajas-en-combate-en-l.aspx
+              </a>
+            </p>
+            <p className="pl-6 -indent-6">
+              <strong>Jurisdicción Especial para la Paz – JEP</strong> (Sin fecha). “Lineamientos en materia de sanción
+              propia y Trabajos, Obras y Actividades con contenido Reparador–Restaurador y protocolo para la adecuada
+              articulación de los componentes del Mecanismo de Monitoreo y Verificación de Sanciones Propias”,
+              disponible en:{" "}
+              <a
+                href="https://www.jep.gov.co/Polticas%20y%20Lineamientos/Lineamientos%20en%20materia%20de%20sanci%C3%B3n%20propia%20y%20Trabajos,%20Obras%20y%20Actividades%20con%20contenido%20Reparador%20-%20Restaurador%20y%20protocolo%20para%20la%20adecuada%20articulaci%C3%B3n%20de%20los%20componentes%20del%20Mecanismo%20de%20Monitoreo%20y%20Verificaci%C3%B3n%20de%20Sanciones%20Propias.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.jep.gov.co/.../Lineamientos...
+              </a>{" "}
+              (Fecha de consulta: octubre 28 de 2025)
+            </p>
+            <p className="pl-6 -indent-6">
+              <strong>Jurisdicción Especial para la Paz [JEP]</strong>. (2023). <em>Audiencia de Reconocimiento de
               Responsabilidad - Macrocaso 03, Batallón La Popa</em> [Video]. YouTube.
             </p>
             <p className="pl-6 -indent-6">
-            Redacción Judicial. (2025, 18 de septiembre). En vivo: la JEP condena a exmilitares por ‘falsos positivos’ en Cesar. El Espectador. https://www.elespectador.com/judicial/en-vivo-la-jep-condena-a-exmilitares-por-falsos-positivos-en-cesar-valledupar/
+              <strong>Mesa de Conversaciones para la Terminación del Conflicto y la Construcción de una Paz Estable y
+              Duradera</strong> (2016). Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz
+              Estable y Duradera. Bogotá: Teatro Colón.
             </p>
             <p className="pl-6 -indent-6">
-            Coll, J. F. (2025, 3 noviembre). *Exguerrilleros y militares se unen para construir 500 osarios de víctimas de desaparición forzada en Colombia*. EL PAÍS América Colombia. [https://elpais.com/america-colombia/2025-11-03/exguerrilleros-y-militares-se-unen-para-construir-500-osarios-de-victimas-de-desaparicion-forzada-en-colombia.html](https://elpais.com/america-colombia/2025-11-03/exguerrilleros-y-militares-se-unen-para-construir-500-osarios-de-victimas-de-desaparicion-forzada-en-colombia.html)
+              <strong>Orozco Tascón, C.</strong> (2025, 17 de agosto). Dice el presidente de la JEP: “No queremos
+              sentencias de papel”. El Espectador.{" "}
+              <a
+                href="https://www.elespectador.com/judicial/dice-el-presidente-de-la-jep-no-queremos-sentencias-de-papel/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.elespectador.com/judicial/dice-el-presidente-de-la-jep-no-queremos-sentencias-de-papel/
+              </a>
             </p>
             <p className="pl-6 -indent-6">
-            Jurisdicción Especial para la Paz – JEP. (2025, 7 de junio). La JEP y autoridades de Cesar y La Guajira articulan esfuerzos para preparar la implementación de la sentencia que se emita por ‘falsos positivos’ en estos departamentos. Sala de Prensa de la JEP. https://www.jep.gov.co/Sala-de-Prensa/Paginas/la-jep-y-autoridades-de-cesar-y-la-guajira-articulan-esfuerzos-para-preparar-la-implementacion-de-la-sentencia-que-se-emita.aspx
+              <strong>Redacción Colombia 2020</strong>. (2022, 20 de julio). Falsos positivos en Cesar: los detalles de la
+              imputación de la JEP a militares del Batallón La Popa. El Espectador.{" "}
+              <a
+                href="https://www.elespectador.com/colombia-20/jep-colombia/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.elespectador.com/colombia-20/jep-colombia/
+              </a>
+            </p>
+            <p className="pl-6 -indent-6">
+              <strong>Redacción Judicial</strong>. (2025, 18 de septiembre). En vivo: la JEP condena a exmilitares por
+              ‘falsos positivos’ en Cesar. El Espectador.{" "}
+              <a
+                href="https://www.elespectador.com/judicial/en-vivo-la-jep-condena-a-exmilitares-por-falsos-positivos-en-cesar-valledupar/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.elespectador.com/judicial/en-vivo-la-jep-condena-a-exmilitares-por-falsos-positivos-en-cesar-valledupar/
+              </a>
+            </p>
+            <p className="pl-6 -indent-6">
+              <strong>Rutas del Conflicto</strong>. (2022, 11 de julio). La JEP imputó al general (r) Paulino Coronado y
+              a otros 24 militares por 'falsos positivos'.{" "}
+              <a
+                href="https://rutasdelconflicto.com/actualidad/la-jep-imputo-al-general-paulino-coronado"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://rutasdelconflicto.com/actualidad/la-jep-imputo-al-general-paulino-coronado
+              </a>
+            </p>
+            <p className="pl-6 -indent-6">
+              <strong>Suárez Aldana, Camilo Andrés</strong> (2020). “La justicia transicional, restaurativa y su proyección
+              en el procedimiento dialógico dispuesto para la Jurisdicción Especial para la Paz”, en: La JEP vista por
+              sus jueces (2018–2019). Bogotá: XPRESS estudio gráfico y digital SAS, pp. 135–155.
+            </p>
+            <p className="pl-6 -indent-6">
+              <strong>Van Zyl, P.</strong> (2011). Promoviendo la justicia transicional en sociedades post–conflicto. En:
+              Reátegui, F. (Ed.), Justicia transicional: Manual para América Latina (pp.47–72). Brasilia: Comisión de
+              Amnistía – Ministerio de Justicia / Nueva York: ICTJ.
             </p>
           </div>
         </motion.div>
