@@ -149,7 +149,7 @@ export function FooterSection() {
             style={{ fontFamily: 'Playfair Display, serif' }} 
             className="text-zinc-900 text-2xl mb-6 text-center"
           >
-            Bibliografía y Fuentes
+            Bibliografía
           </h3>
           <div className="space-y-4 text-sm text-zinc-700 max-w-4xl mx-auto">
             <p className="pl-6 -indent-6">
