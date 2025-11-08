@@ -19,7 +19,7 @@ export function ReflectionSection() {
           <div className="inline-flex items-center gap-3 mb-6">
             <Sparkles className="w-10 h-10 text-amber-500" />
             <h2
-              className="text-white"
+              className="text-black"
               style={{ fontFamily: 'Playfair Display, serif', fontSize: 'clamp(2rem, 5vw, 3rem)' }}
             >
               Nuestra Reflexión
